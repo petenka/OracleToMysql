@@ -1,0 +1,11 @@
+//Oracle config user/password@host:port/db 
+user
+password
+host
+port
+database
+//MySQL config
+user
+password
+host
+database
